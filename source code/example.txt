@@ -1,0 +1,7 @@
+Example for testovac.py
+
+* ktory kluc sa pouziva na overovanie elektronickeho podpisu dokumentu
+@ sukromny kluc podpisujuceho
+@ sukromny kluc overovatela
+x verejny kluc podpisujuceho
+@ verejny kluc overovatela
