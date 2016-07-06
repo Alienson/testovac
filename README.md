@@ -14,3 +14,13 @@ vsetko ostatne ignoruje (povazuje to za komentar)
 	- (@) oznacuje NESPRAVNU odpoved
 	- (x) oznacuje SPRAVNU odpoved
 	
+#### Konfiguracne premenne
+
+| nazov premennej       | popis                                                 |
+|-----------------------|-------------------------------------------------------|
+| UCENIE                | Vypise spravnu odpoved                                |
+| RANDOM                | Generuje odpovede nahodne                             |
+| UKLADANIE_NESPRAVNYCH | V pripade nespravnej odpovede otazku znovu vygeneruje |
+| POCET_ODPOVEDI        | nastavi kolko moznych odpovedi moze otazka obsahovat  |
+| NESPRAVNE_ODPOVEDE    |                                                       |
+	
